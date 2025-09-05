@@ -1,0 +1,27 @@
+Command: start "" "C:\Program Files\TeamViewer\Version10\TeamViewer.exe" -i "10.104.1.4" --Password "Pts0123680039"
+Output: 
+Return code: 1
+Command: start "" "C:\Program Files\TeamViewer\Version10\TeamViewer.exe" -i "10.104.1.4" --Password "Pts0123680039"
+Output: 
+Return code: 1
+Command: start "" "C:\Program Files\TeamViewer\Version10\TeamViewer.exe" -i "10.104.1.4" --Password "Pts0123680039"
+Output: 
+Return code: 1
+Command: start "" "C:\Program Files\TeamViewer\Version10\TeamViewer.exe" -i "10.104.1.4" --Password "Pts0123680039"
+Output: 
+Return code: 1
+Command: start "" "C:\Program Files\TeamViewer\Version10\TeamViewer.exe" -i "10.104.1.4" --Password "Pts0123680039"
+Output: 
+Return code: 1
+Command: start "" "C:\Program Files\TeamViewer\TeamViewer.exe" -i "10.104.1.4" --Password "Pts0123680039"
+Output: 
+Return code: 0
+Command: start "" "C:\Program Files\TeamViewer\TeamViewer.exe" -i "10.104.1.154" --Password "Pts0123680039"
+Output: 
+Return code: 0
+Command: start "" "C:\Program Files\TeamViewer\TeamViewer.exe" -i "10.104.1.154" --Password "Pts0123680039"
+Output: 
+Return code: 0
+Command: start "" "C:\Program Files\TeamViewer\TeamViewer.exe" -i "10.104.1.4" --Password "Pts0123680039"
+Output: 
+Return code: 0
